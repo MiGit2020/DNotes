@@ -1,2 +1,2 @@
-# mac14abr
-Este es mi segundo proyecto de prueba con Git
+Notas creadas con Deepnotes o Jupiter relacionadas con el proyecto de Vengates.
+
